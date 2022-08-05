@@ -19,6 +19,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ClInclude Include="Task1.h">
       <Filter>Header Files</Filter>
@@ -27,4 +28,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+=======
+>>>>>>> 61ddad04abcd81e77e1b041622505c899aed340c
 </Project>

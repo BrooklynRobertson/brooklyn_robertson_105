@@ -1,6 +1,7 @@
 // brooklyn_robertson_105.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+<<<<<<< HEAD
 #include "Task1.h"
 class Location : public Yacht {
 private:
@@ -165,6 +166,13 @@ int main()
     }
 
 
+=======
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello World!\n";
+>>>>>>> 61ddad04abcd81e77e1b041622505c899aed340c
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
